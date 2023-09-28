@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
-# console.log( 'Hi there!! 👋') 
-**Osmel00/Osmel00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# console.log('Hi there!! 👋') 
+
 
 Here are some ideas to get you started:
 
