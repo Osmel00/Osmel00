@@ -2,7 +2,7 @@
 # console.log('Hi there!! 👋') 
 
 <h1 align="center">Hi 👋, I'm Osmel Faure</h1>
-<h3 align="center">A passionate Fullstack Web Developer (MERN) from Berlin</h3>
+<h3 align="center">A passionate Fullstack Web Developer from Berlin</h3>
 
 - 📫 How to reach me **osmelwebdev@gmail.com**
 
