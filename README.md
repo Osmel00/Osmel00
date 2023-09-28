@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">console.log('Hi 👋, I'm Osmel Faure') </h1>
 <h2 align="center">A passionate Fullstack Web Developer from Berlin</h2>
-<p>Dedicated MERN full-stack developer with a strong passion for creating web applications using MongoDB, Express, React, and Node.js. Skilled in both front-end and back-end development, with expertise in React, Redux, Node.js, and Express. Proficient in designing and maintaining databases with MongoDB. Committed to continuous learning, staying up-to-date with the latest technologies and best practices to ensure the delivery of high-quality, scalable solutions. Let's collaborate and create something exceptional together!</p>
 
+<h4>Dedicated MERN full-stack developer with a strong passion for creating web applications using MongoDB, Express, React, and Node.js. Skilled in both front-end and back-end development, with expertise in React, Redux, Node.js, and Express. Proficient in designing and maintaining databases with MongoDB. Committed to continuous learning, staying up-to-date with the latest technologies and best practices to ensure the delivery of high-quality, scalable solutions. Let's collaborate and create something exceptional together!</h4>
 
 - 📫 How to reach me **osmelwebdev@gmail.com**
 
